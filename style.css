@@ -9,9 +9,10 @@ body {
 
 .card {
   background: white;
+  width: calc(100% - 32px); /* ← スマホ対策 */
   max-width: 420px;
-  margin: 40px auto;
-  padding: 30px 20px;
+  margin: 24px auto;        /* ← 左右autoで完全中央 */
+  padding: 30px 16px;
   border-radius: 16px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
