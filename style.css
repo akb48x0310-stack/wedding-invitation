@@ -42,3 +42,9 @@ body {
   background: #ccc;
   margin: 32px 0;
 }
+.jp-message {
+  font-size: 14px;
+  line-height: 2;
+  color: #333;
+  margin-top: 40px;
+}
