@@ -48,3 +48,10 @@ body {
   color: #333;
   margin-top: 40px;
 }
+.photo {
+  width: 220px;
+  max-width: 70%;
+  border-radius: 999px;
+  margin: 32px 0;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
